@@ -1,5 +1,5 @@
 # Introduction
-weatherApp-001 is an app that will convert Kelvin to Celsius, then to Fahrenheit, then to Newton. The program will run in the console.
+This is an app that will convert Kelvin to Celsius, then to Fahrenheit, then to Newton. The program will run in the console.
 
 
 ## Pseudocode
